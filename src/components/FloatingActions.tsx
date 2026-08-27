@@ -3,7 +3,7 @@ import { motion, AnimatePresence } from 'motion/react';
 import { ArrowUp } from 'lucide-react';
 import { WhatsAppIcon } from './WhatsAppIcon';
 
-const WHATSAPP_NUMBER = '+1234567890'; // Replace with actual business number
+const WHATSAPP_NUMBER = '+919370739383'; // Replace with actual business number
 
 export default function FloatingActions() {
   const [showScrollTop, setShowScrollTop] = useState(false);
