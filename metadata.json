@@ -1,0 +1,6 @@
+{
+  "name": "Shambhu Electricals",
+  "description": "Professional electrical solutions for your home, business & industry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

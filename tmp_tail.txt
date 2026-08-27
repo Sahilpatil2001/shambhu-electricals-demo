@@ -1,0 +1,12 @@
+              </div>
+              <div className="flex flex-col pr-2">
+                <span className="font-extrabold text-neutral-900 leading-tight text-[13px] sm:text-[15px]">{t('about.cert')}</span>
+                <span className="text-neutral-500 font-medium text-[11px] sm:text-[13px]">{t('about.elec')}</span>
+              </div>
+            </motion.div>
+        </div>
+
+      </Container>
+    </section>
+  );
+}
